@@ -6,4 +6,14 @@ public partial class AddContactPage : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    private void btnSave_Clicked(object sender, EventArgs e)
+    {
+
+    }
+
+    private void btnCancel_Clicked(object sender, EventArgs e)
+    {
+
+    }
 }
